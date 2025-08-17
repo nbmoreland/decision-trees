@@ -1,5 +1,4 @@
 # Nicholas Moreland
-# 1001866051
 
 import numpy as np
 import random

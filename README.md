@@ -196,8 +196,7 @@ Potential improvements for contributors:
 
 ## Author
 
-Nicholas Moreland  
-ID: 1001866051
+Nicholas Moreland
 
 ## License
 
